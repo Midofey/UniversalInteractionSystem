@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Universal Interaction System",
+	"Description": "A flexible, actor interaction framework that enables players to interact with any object through a unified, configurable workflow.",
+	"Category": "Gameplay",
+	"CreatedBy": "Midofey",
+	"CreatedByURL": "https://github.com/Midofey",
+	"DocsURL": "https://midofey-tools.gitbook.io/midofey-tools/",
+	"MarketplaceURL": "",
+	"SupportURL": "mailto:midofey.official@gmail.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UniversalInteractionSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
